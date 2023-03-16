@@ -20,4 +20,4 @@ In parallel with the studies which were a master 2, artificial intelligence (ver
 
 ⚡️ Generally I like to make stuff work and any language or paradigm interests me.
 
-    Since 2022, apart from freelancing, I have accentuated work on side-projects, by selling my own projects or by applying for calls for tenders!
+   Since 2022, apart from freelancing, I have accentuated work on side-projects, by selling my own projects or by applying for calls for tenders!
