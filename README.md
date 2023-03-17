@@ -3,7 +3,7 @@ Hello 👋
 👨🏻‍💻 Je suis développeur web, basé en France. Je suis passionné de conception, de design et de développement web et j'ai l’occasion de travailler sur de nombreux projets.
 En parallèle du master "intélligence artificielle", je me suis formé aux technologies webs et j'ai effectué de nombreuses missions en freelance.
 
-🔧 La stack que j'utilise actuellement : Typescript, React, NextJS. Vous pouvez la consulter de façon plus complète sur Malt ou sur mon portfolio.
+🔧 La stack que j'utilise actuellement : Typescript, React, NextJS. Vous pouvez la consulter de façon plus complète sur Malt.
 
 ⚡️ De façon générale, j'aime faire fonctionner des nouvelles choses et n'importe quel langage ou paradigme m'intéresse.
 
@@ -16,7 +16,7 @@ Hello 👋
 👨🏻‍💻 I'm a web developer, based in France. I am passionate about conception, design and web development and I have the opportunity to work on many projects.
 In parallel with the "artificial intelligence" master's degree, I trained in web technologies and carried out numerous freelance missions.
 
-🔧 The stack I currently use: Typescript, React, NextJS. You can consult it in a more complete way on Malt or on my portfolio.
+🔧 The stack I currently use: Typescript, React, NextJS. You can consult it in a more complete way on Malt.
 
 ⚡️ In general, I like to make new things work and I am interested in any language or paradigm.
 
