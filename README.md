@@ -7,7 +7,7 @@ En parallèle du master "intélligence artificielle", je me suis formé aux tech
 
 ⚡️ De façon générale, j'aime faire fonctionner des nouvelles choses et n'importe quel langage ou paradigme m'intéresse.
 
-   Depuis 2022, en dehors du freelance, j'ai accentué mon travail sur des side-projects, en vendant mes propres projets ou en candidatant à des appels d'offre !
+Depuis 2022, en dehors du freelance, j'ai accentué mon travail sur des side-projects, en vendant mes propres projets ou en candidatant à des appels d'offre !
 
 ---
 
@@ -20,4 +20,4 @@ In parallel with the "artificial intelligence" master's degree, I trained in web
 
 ⚡️ In general, I like to make new things work and I am interested in any language or paradigm.
 
-    Since 2022, apart from freelancing, I have accentuated my work on side-projects, by selling my own projects or by applying for calls for tenders!
+Since 2022, apart from freelancing, I have accentuated my work on side-projects, by selling my own projects or by applying for calls for tenders!
