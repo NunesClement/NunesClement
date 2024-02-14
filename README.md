@@ -1,7 +1,7 @@
 Hello 👋
 
 👨🏻‍💻 Je suis développeur web, basé en France. Je suis passionné de conception, de design et de développement web et j'ai l’occasion de travailler sur de nombreux projets.
-En parallèle du master "intélligence artificielle", je me suis formé aux technologies webs et j'ai effectué de nombreuses missions en freelance.
+En parallèle du master "intlligence artificielle", je me suis formé aux technologies webs et j'ai effectué de nombreuses missions en freelance.
 
 🔧 La stack que j'utilise actuellement : Typescript, React, NextJS. Vous pouvez la consulter de façon plus complète sur Malt.
 
